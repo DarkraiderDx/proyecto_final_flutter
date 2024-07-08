@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621275200553",
+    "project_id": "flutter-4c188",
+    "storage_bucket": "flutter-4c188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621275200553:android:d95426f3962af4da157038",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.proyecto_final_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSS5aFxnZtpmlrXSpkE1W7pNxjiKSBLgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
