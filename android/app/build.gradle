@@ -46,7 +46,7 @@ android {
     defaultConfig {
         applicationId "com.codigocorrecto.proyecto_final_hospital"
         minSdkVersion 23 
-        targetSdkVersion 30 // Cambia esto a tu versión de SDK deseada
+        targetSdkVersion 31
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
